@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000b3a2d-a643-4fe6-a620-73735175455d" name="Default" comment="example inliness css for paragraph tag &lt;p&gt;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bbclogo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NEWS.html" afterPath="$PROJECT_DIR$/NEWS.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1. HTML/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../1. HTML/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="NEWS.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NEWS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47727272">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.78409094">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -133,6 +134,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2 CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2 CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -144,6 +159,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.NEWS.html">
     <configuration default="false" name="fonts.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/fonts.html">
@@ -457,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NEWS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47727272">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.78409094">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           <folding />
         </state>
       </provider>
