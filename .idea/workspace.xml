@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000b3a2d-a643-4fe6-a620-73735175455d" name="Default" comment="example inliness css for paragraph tag &lt;p&gt;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/borders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../1. HTML/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../1. HTML/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="borders.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="borders.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/borders.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76082003">
+            <state vertical-scroll-proportion="-13.916667">
               <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fonts.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fonts.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.34168565">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -70,6 +80,7 @@
         <option value="$PROJECT_DIR$/margins.html" />
         <option value="$PROJECT_DIR$/padding.html" />
         <option value="$PROJECT_DIR$/borders.html" />
+        <option value="$PROJECT_DIR$/fonts.html" />
       </list>
     </option>
   </component>
@@ -140,11 +151,8 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.fonts.html">
     <configuration default="false" name="margins.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/margins.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="padding.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/padding.html">
       <method />
     </configuration>
     <configuration default="false" name="borders.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/borders.html">
@@ -154,6 +162,9 @@
       <method />
     </configuration>
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="fonts.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2 CSS/fonts.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -196,18 +207,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.margins.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.padding.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.borders.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.classesandids.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.borders.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.classesandids.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.fonts.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.classesandids.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.margins.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.borders.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.padding.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.fonts.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.classesandids.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.margins.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.borders.html" />
       </list>
     </recent_temporary>
   </component>
@@ -412,8 +423,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/borders.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76082003">
+        <state vertical-scroll-proportion="-13.916667">
           <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34168565">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
           <folding />
         </state>
       </provider>
